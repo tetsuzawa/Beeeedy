@@ -12,6 +12,19 @@ VR Sound web application project
 - protoで設計
 - swaggerに落とし込む
 
+# コミットメッセージについて
+
+以下の動詞を最初に書く
+
+- Add: 
+- Fix: 
+- Update: 
+- Remove: 
+- Use: 
+- Move: 
+- Change: 
+- Rename: 
+- Improve: 
 
 # 開発環境
 
